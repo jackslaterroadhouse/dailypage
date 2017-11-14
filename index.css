@@ -1,0 +1,65 @@
+		@import url('https://fonts.googleapis.com/css?family=Cabin');
+			@import url('https://fonts.googleapis.com/css?family=Raleway');
+			@import url('https://fonts.googleapis.com/css?family=Allerta');
+			@import url('https://fonts.googleapis.com/css?family=Lato');
+
+	body {
+			margin-left: 0px;
+			background: #232F3E;
+			font-family: 'Raleway', Helvetica, Arial, sans-serif;/*base font style for page*/
+			max-width: 1200px;/*stops scaling of page width at 1200px*/
+
+		}
+		a {/*addresses properties of all "a" links*/
+		    color: #146EB4;
+		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+		    font-size: 22px;
+		}
+		a:visited {
+		    color: #146EB4;
+		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:hover {
+		    color: #146EB4;
+		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:focus {
+		    color: #146EB4;
+		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:active {
+		    color: #146EB4;
+		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		h1 { /*addresses properties of all "h1" text*/
+
+			color: #DC3D24;
+			font-family: "Cabin", "Helvetica", Arial, sans-serif;
+			text-decoration-line: underline;
+			font-size: 72px;
+			text-shadow: 1px 1px black;/*Adds Shadow*/
+		}
+		h2 { /*addresses properties of all "h2" text*/
+			/*text-decoration-line: underline;*/
+			font-family: "Cabin", "Helvetica", Arial, sans-serif;
+			font-size: 36px;
+		}
+		h3 {
+			font-family: "Cabin", "Helvetica", Arial, sans-serif;
+			font-size: 36px;
+			color: #FFFFFF;
+		}
+		h4 {
+			font-family: "Lato", "Helvetica", Arial, sans-serif;
+			font-size: 26px;
+			color: #FF9900;
+		}
+		h5 {
+			font-family: "Lato", "Helvetica", Arial, sans-serif;
+			font-size: 16px;
+			color: #FF9900;
+		}
