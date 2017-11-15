@@ -1,65 +1,105 @@
-		@import url('https://fonts.googleapis.com/css?family=Cabin');
-			@import url('https://fonts.googleapis.com/css?family=Raleway');
-			@import url('https://fonts.googleapis.com/css?family=Allerta');
-			@import url('https://fonts.googleapis.com/css?family=Lato');
-
-	body {
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Allerta');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu Mono');
+@import url('https://fonts.googleapis.com/css?family=Space Mono');
+		body {
 			margin-left: 0px;
-			background: #232F3E;
-			font-family: 'Raleway', Helvetica, Arial, sans-serif;/*base font style for page*/
-			max-width: 1200px;/*stops scaling of page width at 1200px*/
-
+			background: #D7CEC7;
+			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px
 		}
-		a {/*addresses properties of all "a" links*/
-		    color: #146EB4;
-		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+		a {
+		    color: #565656;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
 		    font-size: 22px;
 		}
 		a:visited {
-		    color: #146EB4;
-		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
 			font-size: 22px;
 		}
 		a:hover {
-		    color: #146EB4;
-		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
 			font-size: 22px;
 		}
 		a:focus {
-		    color: #146EB4;
-		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
 			font-size: 22px;
 		}
 		a:active {
-		    color: #146EB4;
-		    font-family: 'Lato', Helvetica, Arial, sans-serif;
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
 			font-size: 22px;
 		}
-		h1 { /*addresses properties of all "h1" text*/
+		h1 {
 
-			color: #DC3D24;
-			font-family: "Cabin", "Helvetica", Arial, sans-serif;
+			color: #76323F;
+			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
 			text-decoration-line: underline;
 			font-size: 72px;
-			text-shadow: 1px 1px black;/*Adds Shadow*/
+			text-shadow: 1px 1px black;
 		}
-		h2 { /*addresses properties of all "h2" text*/
-			/*text-decoration-line: underline;*/
-			font-family: "Cabin", "Helvetica", Arial, sans-serif;
-			font-size: 36px;
+		h2 {
+			color: #76323F;
+			font-family: "Barlow", "Helvetica", Arial, sans-serif;
+			font-size: 48px;
 		}
 		h3 {
-			font-family: "Cabin", "Helvetica", Arial, sans-serif;
-			font-size: 36px;
-			color: #FFFFFF;
+			font-family: "Raleway", "Helvetica", Arial, sans-serif;
+			font-size: 24px;
+			color: #565656;
 		}
 		h4 {
-			font-family: "Lato", "Helvetica", Arial, sans-serif;
+			font-family: "Montserrat", "Helvetica", Arial, sans-serif;
 			font-size: 26px;
 			color: #FF9900;
 		}
 		h5 {
-			font-family: "Lato", "Helvetica", Arial, sans-serif;
+			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
 			font-size: 16px;
 			color: #FF9900;
 		}
+		ul {
+			list-style-type: none;
+		}
+		.page {
+			max-width: 100%
+			height: auto;
+			position: fixed;
+			top: 5%;
+			left: 50%;
+			margin-left: -370px;
+		}
+		.header1 {
+
+		}
+		.header2 {
+			text-align: center;
+		}
+				
+		.main {
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			width: 78%;
+			top: 250px;
+			padding: 0px;
+			margin: auto;
+
+		}
+		.page01 {
+			border: 1px solid #76323F;
+		}
+		.page02 {
+			border: 1px solid #76323F;
+		}
+		.page03 {
+			border: 1px solid #76323F;
+		}
+		.page04{
+			border: 1px solid #76323F;
+		}
+		
