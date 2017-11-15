@@ -91,15 +91,31 @@
 
 		}
 		.page01 {
-			border: 1px solid #76323F;
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
 		}
 		.page02 {
-			border: 1px solid #76323F;
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
 		}
 		.page03 {
-			border: 1px solid #76323F;
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
 		}
 		.page04{
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
+		}
+		.page05{
 			border: 1px solid #76323F;
+			padding: 2px;
 		}
 		
