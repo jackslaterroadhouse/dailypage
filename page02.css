@@ -72,3 +72,7 @@
     		text-align: center;
 
 		}
+		button {
+			font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px
+		}
