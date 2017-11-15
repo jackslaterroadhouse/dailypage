@@ -75,7 +75,7 @@
 			font-size: 22px
 		}
 		.notes {
-			position: relative;
+			position: absolute;
 			width: 50%;
 			top: 500px;
 			left: 250px;
