@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Allerta');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu Mono');
+@import url('https://fonts.googleapis.com/css?family=Space Mono');
+		body {
+			margin-left: 0px;
+			background: #76323F;
+			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px
+		}
+		a {
+		    color: #565656;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+		    font-size: 22px;
+		}
+		a:visited {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:hover {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:focus {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:active {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		h1 {
+
+			color: #D7CEC7;
+			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
+			text-decoration-line: underline;
+			font-size: 72px;
+			text-shadow: 2px 2px #565656;
+		}
+		h2 {
+			color: #76323F;
+			font-family: "Space Mono", "Helvetica", Arial, sans-serif;
+			font-size: 48px;
+		}
+		h3 {
+			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px
+			color: #565656;
+		}
+		h4 {
+			font-family: "Space Mono", "Helvetica", Arial, sans-serif;
+			font-size: 26px;
+			color: #76323F;
+		}
+		h5 {
+			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
+			font-size: 16px;
+			color: #76323F;
+		}
+		.body {
+			position: absolute;
+			margin: auto;
+    		width: 100%;
+    		top: 50px;
+    		padding: 0px;
+    		text-align: center;
+		}
+		.button {
+			margin: auto;
+    		width: 70%;
+    		padding: 10px;
+    		text-align: center;
+
+		}
+		button {
+			font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px
+		}
+		.notes {
+			position: absolute;
+			width: 50%;
+			top: 500px;
+			left: 250px;
+		}
