@@ -1,0 +1,6 @@
+Grain 		#D7CEC7
+Blackboard 	#565656
+Oxblood		#76323F
+Peru 		#CD853F
+SeaGreen 	#2E8B57
+SteelBlue 	#4682B4
