@@ -1,0 +1,7 @@
+h1 headline 	oxblood		72px
+h2 headline	grain		72px
+h3 headline 	steel blue	72px
+h4 body 	blackboard 	22px
+h5 body 	grain		22px
+h6 notes 	oxblood		16px
+h7 notes	grain		16px
