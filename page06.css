@@ -7,7 +7,7 @@
 			margin-left: 0px;
 			background: #D7CEC7;
 			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
-			font-size: 22px
+			font-size: 52px
 		}
 		a {
 		    color: #565656;
@@ -121,25 +121,28 @@
 			padding: 2px;
 		}
 		.page06 {
-			border-left: 1px solid #76323F;
-			border-top: 1px solid #76323F;
-			border-right: 1px solid #76323F;
-			padding: 2px;
-		}
-		.page07 {
-			border-left: 1px solid #76323F;
-			border-top: 1px solid #76323F;
-			border-right: 1px solid #76323F;
-			padding: 2px;
-		}
-		.page08 {
-			border-left: 1px solid #76323F;
-			border-top: 1px solid #76323F;
-			border-right: 1px solid #76323F;
-			padding: 2px;
-		}
-		.page09 {
 			border: 1px solid #76323F;
 			padding: 2px;
 		}
-		
+		.body {
+			position: absolute;
+			margin: auto;
+    		width: 80%;
+    		padding: 100px;
+    		text-align: center;
+		}
+		.button {
+			margin: auto;
+    		width: 70%;
+    		padding: 10px;
+    		text-align: center;
+
+		}
+		button {
+			font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 42px
+		}
+		.notes {
+			margin: auto;
+			width: 50%;
+		}
