@@ -55,12 +55,12 @@
 		h4 {
 			font-family: "Montserrat", "Helvetica", Arial, sans-serif;
 			font-size: 26px;
-			color: #FF9900;
+			color: #76323F;
 		}
 		h5 {
 			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
 			font-size: 16px;
-			color: #FF9900;
+			color: #76323F;
 		}
 		ul {
 			list-style-type: none;
@@ -143,8 +143,6 @@
 			font-size: 22px
 		}
 		.notes {
-			position: absolute;
+			margin: auto;
 			width: 50%;
-			top: 500px;
-			left: 250px;
 		}

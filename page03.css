@@ -6,7 +6,8 @@
 		body {
 			margin-left: 0px;
 			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
-			font-size: 22px
+			font-size: 22px;
+			background: #D5E7ED;
 		}
 		a {
 		    color: #565656;
@@ -34,8 +35,7 @@
 			font-size: 22px;
 		}
 		h1 {
-
-			color: #76323F;
+			color: #565656;
 			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
 			text-decoration-line: underline;
 			font-size: 72px;
@@ -54,12 +54,14 @@
 		h4 {
 			font-family: "Space Mono", "Helvetica", Arial, sans-serif;
 			font-size: 26px;
-			color: #76323F;
+			color: #565656;
+			text-shadow: 1px 1px #D9D9D9;
 		}
 		h5 {
 			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
 			font-size: 16px;
-			color: #76323F;
+			color: #565656;
+			text-shadow: 1px 1px #D9D9D9;
 		}
 		.body {
 			position: absolute;
@@ -73,15 +75,14 @@
     		width: 70%;
     		padding: 10px;
     		text-align: center;
-
-		}
+    	}
 		button {
 			font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
 			font-size: 22px
 		}
 		.notes {
-			position: absolute;
+			position: relative;
+			margin: auto;
 			width: 50%;
-			top: 500px;
-			left: 250px;
+			top: 300px;
 		}

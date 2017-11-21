@@ -1,3 +1,6 @@
 function time() {
-	document.getElementById("demo").innerHTML = Date();
+	document.getElementById("clock").innerHTML = Date();
+}
+function text() {
+	document.getElementById("words").innerHTML = "Time to get ill!"
 }
