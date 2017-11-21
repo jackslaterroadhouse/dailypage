@@ -23,7 +23,6 @@ function circle() {
 function triangle() {
 	var c = document.getElementById("myCanvas");
 	var ctx = c.getContext("2d");
-
     ctx.beginPath();
     ctx.moveTo(600, 100);
     ctx.lineTo(400, 500);
