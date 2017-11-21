@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Allerta');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu Mono');
+@import url('https://fonts.googleapis.com/css?family=Space Mono');
+		body {
+			margin-left: 0px;
+			background: #D7CEC7;
+			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
+			font-size: 72px
+		}
+		a {
+		    color: #565656;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+		    font-size: 22px;
+		}
+		a:visited {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:hover {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:focus {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:active {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		h1 {
+
+			color: #76323F;
+			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
+			text-decoration-line: underline;
+			font-size: 72px;
+			text-shadow: 1px 1px black;
+		}
+		h2 {
+			color: #76323F;
+			font-family: "Barlow", "Helvetica", Arial, sans-serif;
+			font-size: 48px;
+		}
+		h3 {
+			font-family: "Raleway", "Helvetica", Arial, sans-serif;
+			font-size: 24px;
+			color: #565656;
+		}
+		h4 {
+			font-family: "Montserrat", "Helvetica", Arial, sans-serif;
+			font-size: 26px;
+			color: #76323F;
+		}
+		h5 {
+			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
+			font-size: 16px;
+			color: #76323F;
+		}
+		ul {
+			list-style-type: none;
+		}
+		.page {
+			max-width: 100%
+			height: auto;
+			position: fixed;
+			top: 5%;
+			left: 50%;
+			margin-left: -370px;
+		}
+		.header1 {
+
+		}
+		.header2 {
+			text-align: center;
+		}
+				
+		.main {
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			width: 78%;
+			top: 250px;
+			padding: 0px;
+			margin: auto;
+
+		}
+		.page01 {
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
+		}
+		.page02 {
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
+		}
+		.page03 {
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
+		}
+		.page04 {
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
+		}
+		.page05 {
+			border-left: 1px solid #76323F;
+			border-top: 1px solid #76323F;
+			border-right: 1px solid #76323F;
+			padding: 2px;
+		}
+		.page06 {
+			border: 1px solid #76323F;
+			padding: 2px;
+		}
+		.clock {
+			margin: auto;
+    		width: 20%;
+			font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 92px;
+    		text-align: center;
+    		color: #32CD32;
+    		background-color: #000000;
+		}
+		.notes {
+			margin: auto;
+			width: 50%;
+		}
