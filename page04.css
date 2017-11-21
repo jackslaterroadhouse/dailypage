@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Space Mono');
 		body {
 			margin-left: 0px;
-			background: #76323F;
+			background: #D5E7ED;
 			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
 			font-size: 22px
 		}
@@ -35,12 +35,11 @@
 			font-size: 22px;
 		}
 		h1 {
-
-			color: #D7CEC7;
+			color: #4682B4;
 			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
 			text-decoration-line: underline;
 			font-size: 72px;
-			text-shadow: 2px 2px #565656;
+			
 		}
 		h2 {
 			color: #76323F;
@@ -86,4 +85,10 @@
 			width: 50%;
 			top: 500px;
 			left: 250px;
+		}
+		.canvas {
+			margin: auto;
+			width: 1210px;
+			height: 610px;
+			background-color: #D1D1D1;
 		}
