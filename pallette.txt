@@ -4,3 +4,6 @@ Oxblood		#76323F
 Peru 		#CD853F
 SeaGreen 	#2E8B57
 SteelBlue 	#4682B4
+Pattens Blue	#D5E7ED
+Turquoise	#27FFC8
+Light Grey	#D1D1D1
