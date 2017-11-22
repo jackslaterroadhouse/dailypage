@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Allerta');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu Mono');
+@import url('https://fonts.googleapis.com/css?family=Space Mono');
+		body {
+			background: #AFEEEE;
+    		background: -webkit-linear-gradient(left top, #FFC862, #7BA7CC);
+    		background: -o-linear-gradient(bottom right, #FFC862, #7BA7CC);
+    		background: -moz-linear-gradient(bottom right, #FFC862, #7BA7CC);
+    		background: linear-gradient(to bottom right, #FFC862, #7BA7CC);
+			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px
+			
+		}
+		a {
+		    color: #565656;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+		    font-size: 22px;
+		}
+		a:visited {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:hover {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:focus {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		a:active {
+		    color: #76323F;
+		    font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px;
+		}
+		h1 {
+			color: #FFC862;
+			text-shadow:
+				-2px -2px 0 #000,
+				2px -2px 0 #000,
+				-2px 2px 0 #000,
+				2px 2px 0 #000;
+			font-family: "Space Mono", "Helvetica", Arial, sans-serif;
+			font-size: 108px;	
+		}
+		h2 {
+			color: #76323F;
+			font-family: "Space Mono", "Helvetica", Arial, sans-serif;
+			font-size: 48px;
+		}
+		h3 {
+			font-family: 'Space Mono', Helvetica, Arial, sans-serif;
+			font-size: 22px
+			color: #565656;
+		}
+		h4 {
+			font-family: "Space Mono", "Helvetica", Arial, sans-serif;
+			font-size: 26px;
+			color: #4682B4;
+		}
+		h5 {
+			font-family: "Ubuntu Mono", "Helvetica", Arial, sans-serif;
+			font-size: 16px;
+			color: #4682B4;
+		}
+		.header {
+			position: fixed;
+			top: -10px;
+			left: -10px;
+			width: 110%;
+			height: 500px;
+			font-size: 50px;
+			text-align: center;
+
+		}
+		.header_image {
+			
+		}
+		#main {
+			background:
+				linear-gradient(
+			    rgba(69, 93, 99, 0.45),
+			    rgba(69, 93, 99, 0.45)
+			    ),
+			    url("images/seattle/skylinefromunion02.jpg");
+			    background-attachment: fixed;
+			    background-repeat: no-repeat;
+			    background-position: bottom;
+			    background-size: cover;
+		}
